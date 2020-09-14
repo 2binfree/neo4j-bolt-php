@@ -68,7 +68,7 @@ class Configuration extends BaseConfiguration implements ConfigInterface
         return new self([
             'user' => 'null',
             'password' => 'null',
-            'bind_to_interface' => 'null',
+            'bind_to_interface' => null,
             'timeout' => 5,
             'credentials' => ['null', 'null'],
         ]);
