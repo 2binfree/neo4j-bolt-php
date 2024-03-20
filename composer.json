@@ -13,7 +13,7 @@
         "php": ">= 8.2",
         "ext-bcmath": "*",
         "ext-mbstring": "*",
-        "symfony/event-dispatcher": "6.3.*",
+        "symfony/event-dispatcher": "6.4.*",
         "graphaware/neo4j-common": "^3.4",
         "myclabs/php-enum": "^1.4"
     },
